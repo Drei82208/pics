@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 110 vh;
+}
+
+body {
+    background-image: url(../cats.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 3em;
+    color: rgb(255, 0, 187);
+    margin: 15px;
+}
+
+image {
+    position: center;
+    justify-content: center;
+    margin: 4px;
+}
+
+
